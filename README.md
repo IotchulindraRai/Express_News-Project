@@ -2,6 +2,7 @@
 Node.js, React.js,Express as framework and embedded javascript Templeting was uswd to make this project .Through this web project i got to explore these technologies and in this project i have used api key to fetch data for data.
 Node.js project using express, ejs where we fetch the news data from news api.
 
+ **demo link**: https://www.youtube.com/watch?v=KTM0F3nYiWU
 
 <a href="https://express-news-project.vercel.app/">Have a look on website upload on vercel</a>
 
